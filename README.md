@@ -1,3 +1,3 @@
 <H3>calculator</H3>
 
-<p>calculator</p>
+<p>Create a calculator using Dom</p>
